@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 
-st.markdown("<h1 style='text-align: center; color: black;'>MY DATA APP</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: black;'>MY DATA APP.</h1>", unsafe_allow_html=True)
 
 st.markdown("""
 This app allows you to download scraped data on motocycles from expat-dakar 
@@ -41,5 +41,6 @@ for i in range(1,6):
 
 
  
+
 
 
